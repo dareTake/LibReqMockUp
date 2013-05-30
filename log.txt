@@ -1,0 +1,2 @@
+[2013-05-29-22-39-58] [Authentication to host 'localhost' for user 'lib_req' using method 'mysql_native_password' failed with message: Access denied for user 'lib_req'@'localhost' (using password: YES)]
+[2013-05-29-22-40-11] [Authentication to host 'localhost' for user 'lib_req' using method 'mysql_native_password' failed with message: Access denied for user 'lib_req'@'localhost' (using password: YES)]
